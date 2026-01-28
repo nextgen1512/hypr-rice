@@ -1,2 +1,2 @@
-# hypr-rice
+# The Hypr-Rice
 My First Hyprland Rice
