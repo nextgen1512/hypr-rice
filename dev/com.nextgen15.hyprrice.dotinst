@@ -1,0 +1,14 @@
+{
+	"name": "Hyprrice DEV",
+	"id": "com.nextgen15.hyprrice.dev",
+	"description": "My first Rice",
+	"version":"0.1",
+	"author": "Chi O",
+	"homepage": "",
+	"dependencies": "",
+	"source": "projects/hypr-rice",
+	"subfolder": "dotfiles",
+	"setupscript":"setup.sh",
+	"restore":[],
+	"settings":[]
+}
